@@ -53,8 +53,8 @@ A Spring Boot application demonstrating Test-Driven Development (TDD) principles
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd tddProject
+   git clone https://github.com/bibokane/spring-boot-tdd-task-manager
+   cd spring-boot-tdd-task-manager
    ```
 
 2. **Build the project**
